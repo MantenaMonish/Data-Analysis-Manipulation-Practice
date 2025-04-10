@@ -3,7 +3,7 @@
 **Practicing pandas, numpy, and data wrangling techniques from *Python for Data Analysis* by Wes McKinney.**  
 This repository demonstrates my hands-on skills in data preprocessing, transformation, and visualization—key areas for AI/ML development and scalable systems.  
 
-## 📚 Table of Contents  
+## Table of Contents  
 1. **Data Wrangling**  
    - Merging datasets (`Combining_Merging_Data_Sets.ipynb`)  
    - Handling missing data, filtering, and transformation (`Data_Transformation.ipynb`)  
@@ -22,13 +22,13 @@ This repository demonstrates my hands-on skills in data preprocessing, transform
 5. **Visualization**  
    - matplotlib basics and integration with pandas/seaborn (`pandas_seaborn_Plotting.ipynb`)  
 
-## 🛠️ Skills Demonstrated  
+## Skills Demonstrated  
 - **Data Preprocessing**: Cleaning, merging, reshaping, and handling missing data.  
 - **Analysis**: Aggregation, time-series operations, and statistical summaries.  
 - **Tools**: pandas, numpy, matplotlib, seaborn.  
 - **Relevance to Role**: Directly aligns with *Data Handling and Preprocessing* responsibilities in the internship JD.  
 
-## 🚀 How to Run  
+## How to Run  
 1. Clone the repo:  
    ```bash  
    git clone https://github.com/yourusername/Python-Data-Analysis-Practice.git  
