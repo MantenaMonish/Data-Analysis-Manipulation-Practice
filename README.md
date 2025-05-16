@@ -31,6 +31,6 @@ This repository demonstrates my hands-on skills in data preprocessing, transform
 ## How to Run  
 1. Clone the repo:  
    ```bash  
-   git clone https://github.com/yourusername/Python-Data-Analysis-Practice.git  
+   git clone https://github.com/MantenaMonish/Python-Data-Analysis-Practice.git  
 2. Install dependencies:  
    pip install -r requirements.txt    
